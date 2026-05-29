@@ -64,8 +64,8 @@ The script runs fine without optional tools — it just skips the checks that ne
 
 ```bash
 git clone https://github.com/aksh4n/audit-.git
-cd web-security-audit
-chmod +x audit.sh
+cd audit-
+chmod +x audit_v6.sh
 ```
 
 ---
