@@ -63,7 +63,7 @@ The script runs fine without optional tools — it just skips the checks that ne
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/web-security-audit.git
+git clone https://github.com/aksh4n/audit-.git
 cd web-security-audit
 chmod +x audit.sh
 ```
